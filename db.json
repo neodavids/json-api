@@ -496,5 +496,128 @@
             "created_at": "2021-08-05T16:43:52.000000Z",
             "updated_at": "2021-08-05T16:43:52.000000Z"
         }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "admin",
+            "email": "admin@admin.com",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "JIfWngHjW6HiMtWCgiXLWpGIKrVBS1Ddyt3mkOs9bvYzeDv5pMZF7CM55Hrv",
+            "menuroles": "user,admin",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 2,
+            "name": "Jasen Kertzmann",
+            "email": "qhayes@example.org",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "v1XcgOple81I8RUi5iqpv8igoYztrMVzmjJrikNM4oyHjfbedkezLN6Biysx",
+            "menuroles": "user",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 3,
+            "name": "Tevin Krajcik",
+            "email": "prince07@example.com",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "0n0zdugqEQvvdyJuxkTgvx6tNr3SKvZUZyqjvgtutb59YmUwsSNzRPXwCvoK",
+            "menuroles": "user",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 4,
+            "name": "Weldon Hane",
+            "email": "alisha94@example.org",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "miec3af495fxTXr6eLodEYiqV7bjAqhYi0qrTNZCdS2E02NpT8A3ClhVswU1",
+            "menuroles": "user",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 5,
+            "name": "Dr. Crystel Kulas III",
+            "email": "kirsten.lowe@example.net",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "MHlNRmQr42tUsa0pETp5e1S9knGsPBZEtMXSivtlSispVpn8XFEwR9Z2YIJQ",
+            "menuroles": "user",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 6,
+            "name": "Mr. Ross Altenwerth III",
+            "email": "jfeest@example.org",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "tojO6HpjE9awFw7oQJm4WAKXxOTDpG0s1RF8eKr2zQbq2LljxS13p903D9ty",
+            "menuroles": "user",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 7,
+            "name": "Alda Bartoletti",
+            "email": "tillman.jaiden@example.com",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "6fULnm9uwQxrEuy9br01cp9XKahbhOplALZ7yVtVTKRqUVBvxhs3ZGKMyhQH",
+            "menuroles": "user",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 8,
+            "name": "Victoria Cruickshank",
+            "email": "mclaughlin.maya@example.org",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "xkdIQu3Ts6zummgIvTquuNeoggsJcWPtYY9N3GhMoN74hSJikN2L6E2WsoNt",
+            "menuroles": "user",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 9,
+            "name": "Mrs. Clemmie Nolan Sr.",
+            "email": "kristin.cruickshank@example.net",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "Vdq9nB4gmsG7Sx61TN9MCxNxx9bwYPzrmJ6jvvq2VeONG34bmzrx3uJtsTGh",
+            "menuroles": "user",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 10,
+            "name": "Darren Steuber",
+            "email": "allene.raynor@example.net",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "cvPe82kaj6JAs4vG8bjtF1Tdhh4pX7rgIS5HhfnFQR4Yg7dcLqPTGpAol3Zd",
+            "menuroles": "user",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        },
+        {
+            "id": 11,
+            "name": "Mr. Solon Moore",
+            "email": "tyler.raynor@example.org",
+            "email_verified_at": "2021-08-12T10:00:42.000000Z",
+            "api_token": "8QI6hREEQ232SVvgbS8E4DumPRX89PbJwaOGlDQw9qrA17s8miQn44dl3va1",
+            "menuroles": "user",
+            "created_at": "2021-08-12T10:00:42.000000Z",
+            "updated_at": "2021-08-12T10:00:42.000000Z",
+            "deleted_at": null
+        }
     ]
 }
